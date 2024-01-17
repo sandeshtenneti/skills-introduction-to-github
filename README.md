@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Introduction to GitHub
+# Introduction to SanHub
 
 _Get started using GitHub in less than an 1 HOUR_
 
